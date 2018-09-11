@@ -1,0 +1,24 @@
+.delete{
+    widows: 100px;
+    display: block;
+}
+
+*{
+    padding:10px;
+    margin: 0px;
+}
+
+.tabl{
+    margin: 10px auto;
+}
+
+div .center{
+    width:1000px;
+    margin-top:50px;
+}
+
+.add{
+    width:300px;
+    height: 100px;
+    margin: 10px auto;
+}
